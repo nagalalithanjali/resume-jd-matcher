@@ -27,9 +27,9 @@ The goal is to simulate an **ATS (Applicant Tracking System)** style screening p
 
 
 ## How to Run
-```bash
+bash
 python app.py
-```
+
 
 ##Sample Output
 
