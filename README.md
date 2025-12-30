@@ -34,16 +34,19 @@ python app.py
 ##Sample Output
 
 Match Score (0-100): 85
+
 Matching Skills:
 Python, SQL, Power BI, Machine Learning
+
 Missing Skills:
 Communication
+
 Suggestions:
 Consider adding projects or experience related to missing skills.
+
 Recruiter Summary:
 Candidate is a strong fit for an entry-level Data Analyst role.
 
 
-#Author
-
+##Author
 Naga Lalithanjali Avadhanam
